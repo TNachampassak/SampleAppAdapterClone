@@ -18,6 +18,8 @@
 		<!-- Use UTF-8 as the encoding of the adapter -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
+
+		<!-- comment -->
 		<!-- MobileFirst adapter deployment properties -->
 		<mfpfUrl>http://mobilefoundationtestinstancead-server.mybluemix.net:80/mfpadmin</mfpfUrl>
 		<mfpfUser>admin</mfpfUser>
