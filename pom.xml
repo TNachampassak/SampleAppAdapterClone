@@ -24,9 +24,9 @@
 		<!-- comment3 -->
 		<!-- comment4 -->
 		<!-- MobileFirst adapter deployment properties -->
-		<mfpfUrl>http://mobilefoundationtestinstancead-server.mybluemix.net:80/mfpadmin</mfpfUrl>
+		<mfpfUrl>http://yesbank-us-server.mybluemix.net:80/mfpadmin</mfpfUrl>
 		<mfpfUser>admin</mfpfUser>
-		<mfpfPassword>higGs$u8fr</mfpfPassword>
+		<mfpfPassword>yesbank</mfpfPassword>
 		<mfpfRuntime>mfp</mfpfRuntime>
 	</properties>
 
